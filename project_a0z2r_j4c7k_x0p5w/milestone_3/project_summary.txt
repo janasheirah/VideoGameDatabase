@@ -1,0 +1,6 @@
+Project summary:
+
+The database provides a wealth of gaming-related features for users. It allows you to easily access detailed information about a particular game, 
+including its edition, reviews, compatible platforms, and genres. You can also discover the company behind the game and learn about both casual and 
+professional players associated with it. Furthermore, the database offers comprehensive tournament details, such as the number of participants,
+the roster of players who competed, and the ultimate victor.
